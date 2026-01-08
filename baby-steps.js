@@ -1,2 +1,3 @@
 'use strict';
-console.log(Process.argv);
+console.log(process.argv);
+ 
